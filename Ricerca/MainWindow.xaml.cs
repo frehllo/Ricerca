@@ -42,7 +42,7 @@ namespace Ricerca
             }
             else
             {
-                lbl_errore.Content = "Il testo cercato non esiste nel testo corrente";
+                lbl_errore.Content = "Il testo cercato non esiste nel testo corrente ";
             }
         }
     }
